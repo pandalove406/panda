@@ -9,7 +9,7 @@
     });
   </script>
   OneSignal.push(function() {         
-  OneSignal.sendTag("key", "value", function(tagsSent) {
+  OneSignal.sendTag("PHONE NUMBER", "9447320535", function(tagsSent) {
     // Callback called when tags have finished sending
   });
 });
