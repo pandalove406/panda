@@ -8,5 +8,10 @@
       });
     });
   </script>
+  OneSignal.push(function() {         
+  OneSignal.sendTag("key", "value", function(tagsSent) {
+    // Callback called when tags have finished sending
+  });
+});
 </head>
 hi
