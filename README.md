@@ -1,3 +1,4 @@
+<html>
 <head>
   <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
   <script>
@@ -10,3 +11,4 @@
 </script>
 </head>
 hi
+</html>
